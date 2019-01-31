@@ -1,0 +1,16 @@
+{
+  "name": "Laravel 5.1项目",
+  "version": "0.1.0",
+  "description": "Laravel5.1项目，用来测试各个流行的Composer第三方库的集成和使用",
+  "title": "Laravel 5.1 Api Docs",
+  "url": "http://laravel51.local",
+  "sampleUrl": "http://laravel51.local",
+  "header": {
+    "title": "apidoc的使用",
+    "filename": "readme.md"
+  },
+  "footer": {
+    "title": "版本更改记录",
+    "filename": "changelog.md"
+  }
+}
